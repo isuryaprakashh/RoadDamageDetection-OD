@@ -1,0 +1,43 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Dataset & Media
+dataset-1/
+dataset/
+data/
+*.mp4
+*.avi
+*.mov
+
+# Model weights & Training outputs
+*.pt
+*.pth
+*.onnx
+*.engine
+runs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc & Temp files
+*.log
+allfiles.txt
+_counts.txt
+
